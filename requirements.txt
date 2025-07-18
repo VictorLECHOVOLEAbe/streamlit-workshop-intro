@@ -1,0 +1,42 @@
+streamlit
+pandas
+snowflake-connector-python
+sqlalchemy
+psycopg2-binary
+openpyxl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# matplotlib
+# seaborn
+
+
+## Database connectors
+# psycopg2
+# psycopg2-binary 
+# mysql-connector-python 
+# snowflake-connector-python  # https://docs.snowflake.com/developer-guide/python-connector/python-connector-install
+# # sqlalchemy
+# snowflake-sqlalchemy
+
+# openai
+
+
+# # intro_workshop_app
+streamlit
+pandas
+snowflake-connector-python
+sqlalchemy
+psycopg2-binary
+openpyxl
