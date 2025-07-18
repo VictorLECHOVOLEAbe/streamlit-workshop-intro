@@ -7,6 +7,18 @@ openpyxl
 
 
 
+# matplotlib
+# seaborn
+
+
+# ## Database connectors
+# psycopg2
+# psycopg2-binary 
+# # mysql-connector-python 
+# snowflake-connector-python  # https://docs.snowflake.com/developer-guide/python-connector/python-connector-install
+# sqlalchemy
+# snowflake-sqlalchemy
+
 
 
 
