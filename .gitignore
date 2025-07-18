@@ -1,5 +1,7 @@
 env/
 .streamlit/
+.help
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -3,6 +3,12 @@
 
 import streamlit as st
 
+st.set_page_config(
+    page_title="Survey: Your Experience with Python and SQL",
+    page_icon="🎓",
+    layout="wide"   
+)
+
 st. title("Streamlit Workshop Intro")
 
 st.write("This is a simple Streamlit app to demonstrate the basics of Streamlit.")

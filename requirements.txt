@@ -2,8 +2,8 @@ streamlit
 pandas
 snowflake-connector-python
 sqlalchemy
-psycopg2-binary
-openpyxl
+# psycopg2-binary
+# openpyxl
 
 
 
